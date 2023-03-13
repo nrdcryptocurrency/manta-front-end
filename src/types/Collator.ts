@@ -43,6 +43,7 @@ const ADDRESS_TO_COLLATOR_NAME_MAP = {
   dmu7ke7UqHb9oh4zbA9z7sUe9SjTEqqXyWF39dXva2aBuYyDR: 'CertHum',
   dmzE9ZpFEiZMYTJ5JTcnhUxVenjpoKgEVNsRe3wHULui4XA44: 'ERN VENTURES',
   dmz8r5YJUBZp4zc5RbhBYQHCNAxN2WnfPUkMhDyqmMLTfK31E: 'P2P_ORG_1',
+  dmvDkJ2ti4WxdtmhuYfNCdHyfGbs44QE7m8Q2vqWPQ3vgcdaG: 'NRD Labs',
   // test collators
   dmyjURuBeJwFo4Nvf2GZ8f5E2Asz98JY2d7UcaDykqYm1zpoi: 'Alice',
   dmxAK9q1WBDFtuNS9bLbBujK452yFfm8h8HLHWrr5mZqnEBi2: 'Bob',
